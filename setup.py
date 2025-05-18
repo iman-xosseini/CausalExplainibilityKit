@@ -19,7 +19,7 @@ setup(
     description="A Python toolkit for causal explanation of machine learning models.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/CausalExplainabilityKit",  # Change this
+    url="https://github.com/iman-xosseini/CausalExplainibilityKit",  # Change this
     packages=find_packages(
         exclude=["examples*", "tests*"]
     ),  # find_packages will find 'causal_explainer_kit'
