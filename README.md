@@ -46,7 +46,7 @@ The main dependencies are:
 -   networkx
 -   matplotlib
 
-Refer to `requirements.txt` for a full list of dependencies and their versions.
+Refer to `requirements.txt` for a full list of dependencies.
 
 
 ## Usage
