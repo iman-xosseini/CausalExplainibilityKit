@@ -16,14 +16,14 @@ focusing on identifying influential features and their causal relationships conc
 
 1.  **Clone the repository (if you host it on Git):**
     ```bash
-    git clone [https://github.com/yourusername/CausalExplainabilityKit.git](https://github.com/yourusername/CausalExplainabilityKit.git)
+    git clone https://github.com/iman-xosseini/CausalExplainibilityKit.git
     cd CausalExplainabilityKit
     ```
 
 2.  **Install using pip:**
     It's recommended to use a virtual environment.
     ```bash
-    python -m venv venv
+    python -m venv .venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
     Then install the package:
