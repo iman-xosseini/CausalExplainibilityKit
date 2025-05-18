@@ -26,15 +26,9 @@ focusing on identifying influential features and their causal relationships conc
     python -m venv .venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
-    Then install the package:
+    Then install all dependencies listed in `requirements.txt`:
     ```bash
-    pip install .
-    ```
-    This will also install all dependencies listed in `requirements.txt`.
-
-    Alternatively, for development mode:
-    ```bash
-    pip install -e .
+    pip install -r .\requirements.txt
     ```
 
 ## Dependencies
